@@ -1,0 +1,4 @@
+# MIA, Multimodal intersection analysis
+# This Method is developed by Moncada et.al(https://www.nature.com/articles/s41587-019-0392-8?proof=t)
+# Step1 Find Variable genes in each spot and cluster
+# Test overlap of variable genes by hypergeometric test
