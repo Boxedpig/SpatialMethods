@@ -1,0 +1,5 @@
+# Select Highly variable genes
+# Dimension reduction and select top PCs(Recommand 15PCs)
+# Spatial clustering model
+    a fully Bayesian model with a Markov random field
+      
