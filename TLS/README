@@ -1,0 +1,11 @@
+# 单细胞分析
+## 聚类成不同的cluster
+## 不同cluster之间的CELL-CELL Interaction分析
+
+
+# 空间转录组分析
+## 空间转录组的CELL-CELL Interaction分析
+## 空间转录组的Trajectory分析
+## 空间转录组单细胞去卷积（deconvolution not map）
+
+# 公共数据挖掘
